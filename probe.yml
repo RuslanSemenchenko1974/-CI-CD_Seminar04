@@ -1,2 +1,2 @@
-remote-smoke-test-job:
+remotejob:
   script: echo "SMOKE-remote-!"
